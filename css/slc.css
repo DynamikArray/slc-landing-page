@@ -1,0 +1,24 @@
+.navbar h4.slc-brand {
+    font-family: var(--bs-body-font-family-2);
+    font-size:2rem;
+    color: var(--bs-primary);
+}
+
+.features-icons h3{
+    font-family: var(--bs-body-font-family-2);
+  }
+
+  .showcase h2{
+    font-family: var(--bs-body-font-family-2);
+  }
+
+  .testimonials h2, .testimonials h5{
+    font-family: var(--bs-body-font-family-2);
+  }
+
+  .introText{
+    font-size: 1.5rem;
+    font-weight: 200;
+    margin: 1.5em;
+    padding: 1.5em
+  }
